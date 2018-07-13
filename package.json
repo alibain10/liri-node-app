@@ -1,0 +1,27 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Homework #7 - Liri Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibain10/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alibain10/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/alibain10/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "rquest": "^0.1.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
